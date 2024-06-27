@@ -1,3 +1,7 @@
+# ------------------------------------------------------
+# This sample application is no longer maintained
+# ------------------------------------------------------
+
 # Deepstream Dewarper App
 
 ![](images/fisheye_panini.JPG)
